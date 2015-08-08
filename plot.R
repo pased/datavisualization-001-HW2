@@ -5,7 +5,7 @@ library(ggplot2)
 library(gridExtra)
 library(Cairo)
 
-# This is code is authored by Samantha Tyner https://github.com/sctyner/ggnet
+# This code is authored by Samantha Tyner https://github.com/sctyner/ggnet
 
 load("data/madmen.rda")
 load('data/mm_directed.rda')
